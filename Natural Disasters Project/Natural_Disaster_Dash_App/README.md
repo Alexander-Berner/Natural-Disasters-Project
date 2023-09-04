@@ -1,9 +1,4 @@
-# **Coursework 1 volcanoes and Meteorite Landings**
-
-# **Coursework 2 Flask App for Volcanos and Meteorites**
-
-[Repository URL](https://github.com/ucl-comp0035/comp0034-cw-group-14)
-
+# **Natural Disaster Web App**
 
 ## **HOW TO RUN THE WEB APP** 
 
