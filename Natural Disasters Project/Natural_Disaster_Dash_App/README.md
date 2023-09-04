@@ -47,7 +47,7 @@ This dash app is a multipage design consisting of four tabs, each containing dif
 The general target audience for the dash app comes under three general categories, astrologists who take interest in data regarding meteorites such as their names, locations and masses who require quick and easy to understand information so that they can use it for their research and projects as well as farmers who show interest in volcano information such as location as the land around volcanoes is rich in minerals and thus more fertile, making it a better location for farms. The third category for the target audience covers generic hobbyists who simply take interest in meteorite and volcano information.  
 
 Personas for the two main target audience members, astrologists and farmers, are shown below:  
-![Astrologist Persona](personas\astrologist_persona.png)  
+![Astrologist Persona](personas/astrologist_persona.png)  
 
 ![Farmer Persona](personas/farmer.png)
 
