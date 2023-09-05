@@ -1,5 +1,0 @@
-setuptools
-pandas
-numpy
-bcrypt
-matplotlib
